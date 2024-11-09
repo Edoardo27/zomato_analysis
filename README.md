@@ -19,7 +19,7 @@ Personal project in which I analyzed YouTube data. The project's Jupyter Noteboo
 - folium (Map())
 - folium.plugins (HeatMap)
 
-## <ins>Techniques showcased</ins>:
+## <ins>Techniques/Concepts covered</ins>:
 
 - Importing data (sqlite3)
 - NULL handling
