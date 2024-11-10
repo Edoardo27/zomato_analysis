@@ -1,5 +1,5 @@
 # <ins>Zomato Analysis</ins>
-Personal project in which I analyzed YouTube data. The project's Jupyter Notebook is uploaded above.
+Personal project in which I analyse Zomato data through NLP and Geospatial analysis. The project's Jupyter Notebook is uploaded above.
 
 **<ins>Language</ins>**: *Python*
 
